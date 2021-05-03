@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.abb8463b.chunk.css",
+    "main.js": "/static/js/main.6222dc79.chunk.js",
+    "main.js.map": "/static/js/main.6222dc79.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.98db41f5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.98db41f5.js.map",
+    "static/js/2.c6f6ed01.chunk.js": "/static/js/2.c6f6ed01.chunk.js",
+    "static/js/2.c6f6ed01.chunk.js.map": "/static/js/2.c6f6ed01.chunk.js.map",
+    "static/js/3.6ac471f8.chunk.js": "/static/js/3.6ac471f8.chunk.js",
+    "static/js/3.6ac471f8.chunk.js.map": "/static/js/3.6ac471f8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.abb8463b.chunk.css.map": "/static/css/main.abb8463b.chunk.css.map",
+    "static/js/2.c6f6ed01.chunk.js.LICENSE.txt": "/static/js/2.c6f6ed01.chunk.js.LICENSE.txt",
+    "static/media/shopping-basket-solid.f4067e63.svg": "/static/media/shopping-basket-solid.f4067e63.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98db41f5.js",
+    "static/js/2.c6f6ed01.chunk.js",
+    "static/css/main.abb8463b.chunk.css",
+    "static/js/main.6222dc79.chunk.js"
+  ]
+}
